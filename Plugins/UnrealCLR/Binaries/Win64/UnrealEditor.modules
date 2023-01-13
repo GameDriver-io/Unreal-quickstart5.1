@@ -1,0 +1,8 @@
+{
+	"BuildId": "23058290",
+	"Modules": 
+	{
+		"HPathDebugger": "UnrealEditor-HPathDebugger.dll",
+		"UnrealCLR": "UnrealEditor-UnrealCLR.dll"
+	}
+}
