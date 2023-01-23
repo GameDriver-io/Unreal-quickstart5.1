@@ -1,4 +1,4 @@
-# Unreal-quickstart for UNREAL 5.1!!!!!
+# Unreal-quickstart for UNREAL 5.1!
 
 ## Concept
 
@@ -35,5 +35,3 @@ SomeProjectPath/
 └─ MyProject.uproject	
 └─ MyProject.sln	
 ```
-
-# Note: This product is currently in Beta. 
