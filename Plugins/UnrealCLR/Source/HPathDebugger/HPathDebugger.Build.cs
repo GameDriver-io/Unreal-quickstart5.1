@@ -24,7 +24,7 @@ public class HPathDebugger : ModuleRules {
 
         
         PublicDependencyModuleNames.AddRange(new string[] {
-			"Core", "UnrealCLR", "SceneOutliner", "LevelEditor", "WorldBrowser"
+			"Core", "UnrealCLR", "SceneOutliner", "LevelEditor", "WorldBrowser", "Kismet", "ToolMenus"
         });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {

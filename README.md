@@ -1,6 +1,7 @@
+#Build Release Notes v1.1
+- Added Object Explorer within the editor to get HPath of componenets, fields, and explore methods. 
 
 # Unreal 5.1 Quickstart
-## Note: This build is currently in Beta.
 
 The files in this repository are targeted towards Unreal 5.1. 
 - For Unreal 4.27 users, check out the [Unreal 4.27 Version of the plugin](https://github.com/GameDriver-io/Unreal-quickstart/)
