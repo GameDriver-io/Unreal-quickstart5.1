@@ -1,5 +1,6 @@
-#Build Release Notes v1.1
+#Build Release Notes v1.1RC2
 - Added Object Explorer within the editor to get HPath of componenets, fields, and explore methods. 
+- Fixes to HPathDebugger. 
 
 # Unreal 5.1 Quickstart
 
