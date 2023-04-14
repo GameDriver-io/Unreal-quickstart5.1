@@ -1,6 +1,7 @@
-#Build Release Notes v1.1RC2
+#Build Release Notes v1.1RC3
 - Added Object Explorer within the editor to get HPath of componenets, fields, and explore methods. 
 - Fixes to HPathDebugger. 
+- added foreach support (int, float, double, string)
 
 # Unreal 5.1 Quickstart
 
