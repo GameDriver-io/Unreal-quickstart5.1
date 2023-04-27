@@ -14,16 +14,15 @@ The files in this repository are targeted towards Unreal 5.1.
 
 1. Gamedriver works by placing an small plugin in your game. That plugin communucates with our api, which you use to drive your game remotely.
 2. Setting up the plugin requires moving two folders into their correct locations in your project and downloading the license to the correct location.
-3. Once running, you will need to grab the api dlls from the unreal_api folder, and connect to the game using it. 
+3. Once running, you can refernece the api dlls from the Managed folder and connect to the game using it. 
 
 ## What is in this repository
 
 
-This repository contains a folder called "Managed" filled with dll files. It also contains a folder called "Plugin" containing a binary plugin. The gdio.unreal_api folder contains dlls for use in your test program.
+This repository contains a folder called "Managed" filled with dll files. It also contains a folder called "Plugin" containing a binary plugin. The Managed folder also contains dlls for use in your test program.
 
 - Managed
 - Plugin
-- gdio.unreal_agent
 
 
 ## What you do next. 
