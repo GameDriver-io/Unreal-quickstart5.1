@@ -1,9 +1,9 @@
-## v2.1 
+## 2024.03 Release
+
 - Added Blueprint and C++ GameDriver API
 - Improvements to the Recorder and Editor tools
 - Improved input recording/playback
 - Added access to struct and Array fields in objects
-
 
 ## Concept
 
