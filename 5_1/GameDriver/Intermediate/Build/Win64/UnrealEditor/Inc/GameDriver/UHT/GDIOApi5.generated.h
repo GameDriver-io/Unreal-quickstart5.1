@@ -18,8 +18,8 @@ struct FKey;
 #endif
 #define GAMEDRIVER_GDIOApi5_generated_h
 
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_SPARSE_DATA
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_RPC_WRAPPERS \
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_SPARSE_DATA
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execFloatInputEvent); \
 	DECLARE_FUNCTION(execMouseDrag); \
@@ -45,7 +45,7 @@ struct FKey;
 	DECLARE_FUNCTION(execGetObjectList);
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execFloatInputEvent); \
 	DECLARE_FUNCTION(execMouseDrag); \
@@ -71,8 +71,8 @@ struct FKey;
 	DECLARE_FUNCTION(execGetObjectList);
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_ACCESSORS
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_INCLASS_NO_PURE_DECLS \
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_ACCESSORS
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUBP_GDIOAPI(); \
 	friend struct Z_Construct_UClass_UBP_GDIOAPI_Statics; \
@@ -81,7 +81,7 @@ public: \
 	DECLARE_SERIALIZER(UBP_GDIOAPI)
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_INCLASS \
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_INCLASS \
 private: \
 	static void StaticRegisterNativesUBP_GDIOAPI(); \
 	friend struct Z_Construct_UClass_UBP_GDIOAPI_Statics; \
@@ -90,7 +90,7 @@ public: \
 	DECLARE_SERIALIZER(UBP_GDIOAPI)
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_STANDARD_CONSTRUCTORS \
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UBP_GDIOAPI(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UBP_GDIOAPI) \
@@ -104,7 +104,7 @@ public: \
 	NO_API virtual ~UBP_GDIOAPI();
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_ENHANCED_CONSTRUCTORS \
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UBP_GDIOAPI(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -118,27 +118,27 @@ public: \
 	NO_API virtual ~UBP_GDIOAPI();
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_23_PROLOG
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_GENERATED_BODY_LEGACY \
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_24_PROLOG
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_SPARSE_DATA \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_RPC_WRAPPERS \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_ACCESSORS \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_INCLASS \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_STANDARD_CONSTRUCTORS \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_SPARSE_DATA \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_RPC_WRAPPERS \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_ACCESSORS \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_INCLASS \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_GENERATED_BODY \
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_SPARSE_DATA \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_ACCESSORS \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_INCLASS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_25_ENHANCED_CONSTRUCTORS \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_SPARSE_DATA \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_ACCESSORS \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_GDIOApi5_h_26_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

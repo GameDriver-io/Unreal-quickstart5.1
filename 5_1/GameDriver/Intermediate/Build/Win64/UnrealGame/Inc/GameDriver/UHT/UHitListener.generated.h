@@ -17,8 +17,8 @@ struct FHitResult;
 #endif
 #define GAMEDRIVER_UHitListener_generated_h
 
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_SPARSE_DATA
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_RPC_WRAPPERS \
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_SPARSE_DATA
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execOnComponentEndOverlap); \
 	DECLARE_FUNCTION(execOnActorEndOverlap); \
@@ -28,7 +28,7 @@ struct FHitResult;
 	DECLARE_FUNCTION(execOnActorOverlap);
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execOnComponentEndOverlap); \
 	DECLARE_FUNCTION(execOnActorEndOverlap); \
@@ -38,8 +38,8 @@ struct FHitResult;
 	DECLARE_FUNCTION(execOnActorOverlap);
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_ACCESSORS
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_ACCESSORS
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUHitListener(); \
 	friend struct Z_Construct_UClass_UHitListener_Statics; \
@@ -48,7 +48,7 @@ public: \
 	DECLARE_SERIALIZER(UHitListener)
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_INCLASS \
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_INCLASS \
 private: \
 	static void StaticRegisterNativesUHitListener(); \
 	friend struct Z_Construct_UClass_UHitListener_Statics; \
@@ -57,7 +57,7 @@ public: \
 	DECLARE_SERIALIZER(UHitListener)
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_STANDARD_CONSTRUCTORS \
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UHitListener(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UHitListener) \
@@ -71,7 +71,7 @@ public: \
 	NO_API virtual ~UHitListener();
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UHitListener(UHitListener&&); \
@@ -83,27 +83,27 @@ public: \
 	NO_API virtual ~UHitListener();
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_PROLOG
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_GENERATED_BODY_LEGACY \
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_8_PROLOG
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_SPARSE_DATA \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_RPC_WRAPPERS \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_ACCESSORS \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_INCLASS \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_STANDARD_CONSTRUCTORS \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_SPARSE_DATA \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_RPC_WRAPPERS \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_ACCESSORS \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_INCLASS \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_GENERATED_BODY \
+#define FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_SPARSE_DATA \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_ACCESSORS \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_INCLASS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_12_ENHANCED_CONSTRUCTORS \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_SPARSE_DATA \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_ACCESSORS \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_GameDriver_Source_GameDriver_Public_UHitListener_h_10_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

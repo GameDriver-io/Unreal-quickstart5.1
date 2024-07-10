@@ -14,11 +14,11 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define HPATHDEBUGGER_ExampleSettings_generated_h
 
-#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_SPARSE_DATA
-#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_RPC_WRAPPERS
-#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_RPC_WRAPPERS_NO_PURE_DECLS
-#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_ACCESSORS
-#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_INCLASS_NO_PURE_DECLS \
+#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_SPARSE_DATA
+#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_RPC_WRAPPERS
+#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_ACCESSORS
+#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUExampleSettings(); \
 	friend struct Z_Construct_UClass_UExampleSettings_Statics; \
@@ -29,7 +29,7 @@ public: \
 
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_INCLASS \
+#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_INCLASS \
 private: \
 	static void StaticRegisterNativesUExampleSettings(); \
 	friend struct Z_Construct_UClass_UExampleSettings_Statics; \
@@ -40,7 +40,7 @@ public: \
 
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_STANDARD_CONSTRUCTORS \
+#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UExampleSettings(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UExampleSettings) \
@@ -54,7 +54,7 @@ public: \
 	NO_API virtual ~UExampleSettings();
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_ENHANCED_CONSTRUCTORS \
+#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UExampleSettings(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -68,27 +68,27 @@ public: \
 	NO_API virtual ~UExampleSettings();
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_5_PROLOG
-#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_GENERATED_BODY_LEGACY \
+#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_6_PROLOG
+#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_SPARSE_DATA \
-	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_RPC_WRAPPERS \
-	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_ACCESSORS \
-	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_INCLASS \
-	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_STANDARD_CONSTRUCTORS \
+	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_SPARSE_DATA \
+	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_RPC_WRAPPERS \
+	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_ACCESSORS \
+	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_INCLASS \
+	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_GENERATED_BODY \
+#define FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_SPARSE_DATA \
-	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_ACCESSORS \
-	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_INCLASS_NO_PURE_DECLS \
-	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_8_ENHANCED_CONSTRUCTORS \
+	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_SPARSE_DATA \
+	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_ACCESSORS \
+	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_INCLASS_NO_PURE_DECLS \
+	FID_HostProject_Plugins_GameDriver_Source_Editor_ExampleSettings_h_9_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
